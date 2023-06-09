@@ -1,0 +1,12 @@
+[
+  {
+    "name": "app name 1",
+    "font": "Helvetica",
+    "description": "app description 1"
+  }
+  {
+    "name": "app name 2",
+    "font": "Helvetica",
+    "description": "app description 2"
+  }
+]
